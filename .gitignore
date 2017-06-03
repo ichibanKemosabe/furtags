@@ -1,0 +1,12 @@
+*.zip
+
+#We definitely don't want to accidentally upload saucy test images
+*.jpg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.gif
+
+#Anti vim-spam
+*.swp
