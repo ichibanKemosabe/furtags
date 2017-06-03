@@ -1,5 +1,3 @@
-*.zip
-
 #We definitely don't want to accidentally upload saucy test images
 *.jpg
 *.png
@@ -10,3 +8,6 @@
 
 #Anti vim-spam
 *.swp
+
+#Misc undesirable garbo files
+*.html
